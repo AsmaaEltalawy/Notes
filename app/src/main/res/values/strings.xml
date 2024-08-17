@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="search">Search for notes</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_added">Note Added Successfully</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="Edit_note">Edit note\n</string>
+    <string name="Note_update_succesfully">Note Updated Succesfully\n</string>
+    <string name="Note_delete_succesfully">Note delleted succesfully\n</string>
+    <string name="Note_delete_failed">Note delete failed\n</string>
+</resources>
